@@ -1,3 +1,3 @@
 # governance
 
-Questo progetto ha lo scopo di tracciare e supporta tutta la mia attività governance nelle varie iniziative open e sociali prendo parte.
+Questo progetto ha lo scopo di tracciare e supportare tutta la mia attività di governance nelle varie iniziative open e sociali a cui prendo parte.
